@@ -52,6 +52,11 @@ p {
     /* font-weight:; */
 }
 
+/* Title */
+.title > div {
+    margin-bottom: 2rem;
+}
+
 /* Download Buttons */
 
 .download-button {
@@ -62,7 +67,7 @@ p {
 
 .title-image {
     width: 60%;
-    transform: rotate(25deg);
+    transform: rotate(20deg);
 }
 
 /* Features Section */
